@@ -29,9 +29,9 @@
 ---
 
 ## 📫 How to Reach Me
-- Email: [nikhilanand.nik@proton.me] 
-- LinkedIn: [NIKHIL ANAND] (https://www.linkedin.com/in/nikhil-anand-94948a25a/)
-- GitHub: [NIKHIL-CAT](https://github.com/NIKHIL-CAT)
+- Email: [nikhilanand.nik@proton.me](nikhilanand.nik@proton.me)
+- LinkedIn: [Nikhil Anand](https://www.linkedin.com/in/nikhil-anand-94948a25a/)
+- GitHub: [Nikhilanandd](https://github.com/NIKHIL-CAT)
 
 ---
 
