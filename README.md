@@ -37,37 +37,66 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 **DevOps & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,ansible,terraform&theme=dark" />
+<a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" alt="Linux" /></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="48" alt="Bash" /></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" /></a>&nbsp;
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="Kubernetes" /></a>&nbsp;
+<a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="48" alt="Nginx" /></a>&nbsp;
+<a href="https://www.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" height="48" alt="Ansible" /></a>&nbsp;
+<a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="48" alt="Terraform" /></a>
 
 <br><br>
 
 **CI/CD & Version Control**
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github&theme=dark" />
+<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="48" alt="GitHub Actions" /></a>&nbsp;
+<a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="48" alt="Jenkins" /></a>&nbsp;
+<a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="48" alt="GitLab" /></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git" /></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" /></a>
 
 <br><br>
 
 **Cloud Platforms**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="48" alt="AWS" /></a>&nbsp;
+<a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="48" alt="GCP" /></a>
 
 <br><br>
 
 **Monitoring & Observability**
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" />
+<a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" height="48" alt="Prometheus" /></a>&nbsp;
+<a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" height="48" alt="Grafana" /></a>&nbsp;
+<a href="https://www.elastic.co/elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="48" alt="Elasticsearch" /></a>
 
 <br><br>
 
-**Programming & Data**
+**Programming & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch&theme=dark" />
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" /></a>&nbsp;
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java" /></a>&nbsp;
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48" alt="Flask" /></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" /></a>
+
+<br><br>
+
+**AI / ML**
+
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow" /></a>&nbsp;
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="PyTorch" /></a>&nbsp;
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" alt="Hugging Face" /></a>&nbsp;
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48" alt="MLflow" /></a>
 
 <br><br>
 
 **Databases & Data Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,redis&theme=dark" />
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL" /></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL" /></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB" /></a>&nbsp;
+<a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="48" alt="Kafka" /></a>&nbsp;
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="48" alt="Redis" /></a>
 
 </div>
 
@@ -79,16 +108,44 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 | Domain | Technologies |
 |:---|:---|
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
-| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
-| **Web & Reverse Proxy** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| **Log Management** | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=elastic&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) |
-| **IaC & Config Mgmt** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Operating Systems** | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/) |
+| **Containers & Orchestration** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/) |
+| **CI/CD** | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/) |
+| **Web & Reverse Proxy** | [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/) |
+| **Monitoring** | [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/) |
+| **Log Management** | [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch) [![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=elastic&logoColor=white)](https://www.elastic.co/logstash) [![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)](https://www.elastic.co/kibana) |
+| **IaC & Config Mgmt** | [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/) |
+| **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/) |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## AI Infrastructure & LLMOps
+
+<div align="center">
+
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="PyTorch" /></a>&nbsp;
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow" /></a>&nbsp;
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" alt="Hugging Face" /></a>&nbsp;
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48" alt="MLflow" /></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" /></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" /></a>&nbsp;
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="Kubernetes" /></a>
+
+</div>
+
+<br>
+
+| Focus Area | Description |
+|:---|:---|
+| **LLM Deployment Architecture** | Designing serving pipelines for large language models with efficient batching and resource allocation |
+| **Model Serving Pipelines** | FastAPI + Docker + Kubernetes for scalable, containerized model inference endpoints |
+| **Experiment Tracking** | MLflow for reproducible ML experiments, model versioning, and artifact management |
+| **Vector Databases** | Building retrieval-augmented generation (RAG) pipelines with vector search infrastructure |
+| **GPU-aware Infrastructure** | Optimizing compute scheduling and resource allocation for training and inference workloads |
+| **Observability for ML Systems** | Monitoring model drift, latency, throughput, and system health in production ML pipelines |
+| **Reproducible ML Pipelines** | End-to-end pipeline automation from data ingestion to model deployment with full lineage tracking |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -123,21 +180,23 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Current Focus
+## Currently Engineering
 
 ```
-DevOps       ██████████████████████░░   90%  Production Infrastructure
-MLOps        ████████████████░░░░░░░░   65%  ML Pipeline Automation
-LLMOps       ██████████████░░░░░░░░░░   55%  LLM Deployment & Serving
-On-Prem Arch ████████████████████░░░░   80%  Government Infra
-Scalable AI  ████████████████░░░░░░░░   65%  Distributed Systems
+DevOps Automation     ██████████████████████░░   90%  CI/CD · GitOps · IaC
+On-Prem Infra         ████████████████████░░░░   80%  Government Platforms
+AI/ML Pipelines       ████████████████░░░░░░░░   65%  Training · Serving · Monitoring
+LLMOps                ██████████████░░░░░░░░░░   55%  Model Lifecycle · Deployment
+Reliability Eng.      ████████████████████░░░░   80%  HA · Observability · SRE
+Infra as Code         ████████████████████░░░░   80%  Terraform · Ansible · GitOps
 ```
 
-- Building production-grade **CI/CD pipelines** for government platforms
-- Designing **observability-first** infrastructure with Prometheus + Grafana + ELK
-- Exploring **MLOps** pipelines for model training, versioning, and deployment
-- Architecting **LLM serving infrastructure** with efficient resource utilization
-- Hardening **on-premise deployments** with high availability patterns
+- Scaling **DevOps automation** across CI/CD, provisioning, and configuration management
+- Optimizing **on-prem infrastructure** for government platforms with zero-downtime deployment patterns
+- Building **AI/ML deployment pipelines** — from experiment tracking to production model serving
+- Engineering **LLMOps workflows** for model lifecycle management, prompt versioning, and inference scaling
+- Embedding **Infrastructure as Code** mindset across every layer of the stack
+- Designing **reliability-first architecture** with observability, alerting, and failure recovery baked in
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -164,6 +223,20 @@ Scalable AI  ████████████████░░░░░░�
 - Automation exists to **eliminate toil**, not to replace understanding. I automate deliberately and document the *why* behind every pipeline.
 - Reliability engineering starts at **design time**, not incident time. I architect for failure because failures are inevitable — downtime is not.
 - The best infrastructure is **invisible** — engineers ship features, not fight deployments.
+
+</details>
+
+<details>
+<summary><b>Infrastructure Philosophy</b></summary>
+<br>
+
+> **"Treat infrastructure as a product — with users, SLAs, and continuous improvement."**
+
+- **Automation over manual processes.** If a task is done more than once, it should be scripted. If it's done more than twice, it should be a pipeline.
+- **Observability before scaling.** Instrument first, optimize second. You cannot scale what you cannot see.
+- **Reproducibility in ML pipelines.** Every experiment must be versioned, every model traceable from data to deployment.
+- **Infrastructure as a product.** Internal platforms deserve the same rigor as customer-facing services — documentation, testing, and iteration.
+- **Reliability as a feature.** Uptime is not luck. It is engineered through redundancy, graceful degradation, and relentless testing.
 
 </details>
 
