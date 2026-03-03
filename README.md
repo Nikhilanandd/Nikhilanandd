@@ -85,8 +85,8 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow" /></a>&nbsp;
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="PyTorch" /></a>&nbsp;
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" alt="Hugging Face" /></a>&nbsp;
-<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48" alt="MLflow" /></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" /></a>&nbsp;
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" height="48" alt="MLflow" /></a>
 
 <br><br>
 
@@ -108,14 +108,14 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 | Domain | Technologies |
 |:---|:---|
-| **Operating Systems** | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/) |
-| **Containers & Orchestration** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/) |
-| **CI/CD** | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/) |
-| **Web & Reverse Proxy** | [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/) |
-| **Monitoring** | [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/) |
-| **Log Management** | [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch) [![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=elastic&logoColor=white)](https://www.elastic.co/logstash) [![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)](https://www.elastic.co/kibana) |
-| **IaC & Config Mgmt** | [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/) |
-| **Version Control** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/) |
+| **Operating Systems** | [![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)](https://kernel.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-0d1117?style=flat-square&logo=debian&logoColor=A81D33)](https://www.debian.org/) |
+| **Containers & Orchestration** | [![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/) |
+| **CI/CD** | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)](https://docs.github.com/en/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/) [![GitLab CI](https://img.shields.io/badge/GitLab_CI-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ee/ci/) |
+| **Web & Reverse Proxy** | [![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)](https://nginx.org/) |
+| **Monitoring** | [![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=E6522C)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/) |
+| **Log Management** | [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=00BFB3)](https://www.elastic.co/elasticsearch) [![Logstash](https://img.shields.io/badge/Logstash-0d1117?style=flat-square&logo=elastic&logoColor=F4BD19)](https://www.elastic.co/logstash) [![Kibana](https://img.shields.io/badge/Kibana-0d1117?style=flat-square&logo=kibana&logoColor=E8478B)](https://www.elastic.co/kibana) |
+| **IaC & Config Mgmt** | [![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io/) [![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/) |
+| **Version Control** | [![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/) [![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://about.gitlab.com/) |
 
 </div>
 
@@ -127,8 +127,8 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="PyTorch" /></a>&nbsp;
 <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow" /></a>&nbsp;
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" alt="Hugging Face" /></a>&nbsp;
-<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48" alt="MLflow" /></a>&nbsp;
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" /></a>&nbsp;
+<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" height="48" alt="MLflow" /></a>&nbsp;
 <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" /></a>&nbsp;
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" /></a>&nbsp;
 <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="Kubernetes" /></a>
@@ -204,9 +204,9 @@ Infra as Code         ███████████████████�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-anand-94948a25a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilanandd)
-[![Email](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nikhilanand.nik@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nikhil-anand-94948a25a/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/Nikhilanandd)
+[![Email](https://img.shields.io/badge/ProtonMail-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:nikhilanand.nik@proton.me)
 
 </div>
 
@@ -244,7 +244,7 @@ Infra as Code         ███████████████████�
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20automate%20it.&author=DevOps%20Wisdom" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20automate%20it.&author=DevOps%20Wisdom&border=true&borderColor=161b22" alt="Quote" />
 
 </div>
 
