@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Nikhil%20Anand&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Infrastructure%20%7C%20Automation%20%7C%20Reliability%20%7C%20Scalable%20AI%20Systems&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Nikhil%20Anand&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Infrastructure%20%7C%20Automation%20%7C%20Reliability&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=DevOps+Engineer+%7C+MLOps+Practitioner+%7C+LLMOps;Building+Reliable+Infrastructure+at+Scale;CI%2FCD+%E2%80%A2+Containers+%E2%80%A2+Observability+%E2%80%A2+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=DevOps+%7C+MLOps+%7C+LLMOps;CI%2FCD+%E2%80%A2+Containers+%E2%80%A2+Observability+%E2%80%A2+Automation" alt="Typing SVG" /></a>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## About Me
 
@@ -20,16 +20,16 @@
 name: Nikhil Anand
 role: DevOps Intern @ Telangana Police Academy
 education: B.Tech Data Science | SNIST | Diploma in Cloud Computing & Big Data
-focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
+focus: [ DevOps, MLOps, LLMOps ]
 ```
 
 - Deploying, automating, and monitoring internal government platforms on **on-premise infrastructure**
 - Designing and implementing **CI/CD pipelines** for reproducible, zero-downtime deployments
 - Building **observability stacks** with Prometheus, Grafana, and ELK for production systems
 - Engineering **containerized workloads** with Docker and Kubernetes
-- Focused on **high availability**, **reliability engineering**, and **scalable AI systems**
+- Focused on **high availability**, **reliability engineering**, and **infrastructure automation**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## Tech Stack
 
@@ -72,35 +72,23 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 <br><br>
 
-**Programming & Frameworks**
+**Programming**
 
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" /></a>&nbsp;
-<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java" /></a>&nbsp;
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48" alt="Flask" /></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" /></a>
+<a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java" /></a>
 
 <br><br>
 
-**AI / ML**
-
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow" /></a>&nbsp;
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="PyTorch" /></a>&nbsp;
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" /></a>&nbsp;
-<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" height="48" alt="MLflow" /></a>
-
-<br><br>
-
-**Databases & Data Tools**
+**Databases**
 
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL" /></a>&nbsp;
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL" /></a>&nbsp;
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB" /></a>&nbsp;
-<a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="48" alt="Kafka" /></a>&nbsp;
 <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="48" alt="Redis" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## DevOps Toolkit
 
@@ -119,35 +107,7 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## AI Infrastructure & LLMOps
-
-<div align="center">
-
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="PyTorch" /></a>&nbsp;
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow" /></a>&nbsp;
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48" alt="Hugging Face" /></a>&nbsp;
-<a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" height="48" alt="MLflow" /></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI" /></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" /></a>&nbsp;
-<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="48" alt="Kubernetes" /></a>
-
-</div>
-
-<br>
-
-| Focus Area | Description |
-|:---|:---|
-| **LLM Deployment Architecture** | Designing serving pipelines for large language models with efficient batching and resource allocation |
-| **Model Serving Pipelines** | FastAPI + Docker + Kubernetes for scalable, containerized model inference endpoints |
-| **Experiment Tracking** | MLflow for reproducible ML experiments, model versioning, and artifact management |
-| **Vector Databases** | Building retrieval-augmented generation (RAG) pipelines with vector search infrastructure |
-| **GPU-aware Infrastructure** | Optimizing compute scheduling and resource allocation for training and inference workloads |
-| **Observability for ML Systems** | Monitoring model drift, latency, throughput, and system health in production ML pipelines |
-| **Reproducible ML Pipelines** | End-to-end pipeline automation from data ingestion to model deployment with full lineage tracking |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## GitHub Analytics
 
@@ -162,7 +122,7 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## Contribution Graph
 
@@ -178,27 +138,23 @@ focus: [ DevOps, MLOps, LLMOps, On-Prem Infrastructure ]
 
 > To enable the snake animation, add [this GitHub Actions workflow](https://github.com/Platane/snk#github-action) to your profile repo at `.github/workflows/snake.yml`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## Currently Engineering
 
-```
-DevOps Automation     ██████████████████████░░   90%  CI/CD · GitOps · IaC
-On-Prem Infra         ████████████████████░░░░   80%  Government Platforms
-AI/ML Pipelines       ████████████████░░░░░░░░   65%  Training · Serving · Monitoring
-LLMOps                ██████████████░░░░░░░░░░   55%  Model Lifecycle · Deployment
-Reliability Eng.      ████████████████████░░░░   80%  HA · Observability · SRE
-Infra as Code         ████████████████████░░░░   80%  Terraform · Ansible · GitOps
-```
-
 - Scaling **DevOps automation** across CI/CD, provisioning, and configuration management
+---
 - Optimizing **on-prem infrastructure** for government platforms with zero-downtime deployment patterns
-- Building **AI/ML deployment pipelines** — from experiment tracking to production model serving
-- Engineering **LLMOps workflows** for model lifecycle management, prompt versioning, and inference scaling
+---
+- Engineering **containerized workloads** with Docker and Kubernetes for production environments
+---
 - Embedding **Infrastructure as Code** mindset across every layer of the stack
+---
 - Designing **reliability-first architecture** with observability, alerting, and failure recovery baked in
+---
+- Building **observability and monitoring** pipelines with Prometheus, Grafana, and ELK
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## Connect
 
@@ -210,7 +166,7 @@ Infra as Code         ███████████████████�
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <details>
 <summary><b>More About My Engineering Philosophy</b></summary>
@@ -234,7 +190,7 @@ Infra as Code         ███████████████████�
 
 - **Automation over manual processes.** If a task is done more than once, it should be scripted. If it's done more than twice, it should be a pipeline.
 - **Observability before scaling.** Instrument first, optimize second. You cannot scale what you cannot see.
-- **Reproducibility in ML pipelines.** Every experiment must be versioned, every model traceable from data to deployment.
+- **Reproducibility in deployments.** Every release must be versioned, every deployment traceable and repeatable.
 - **Infrastructure as a product.** Internal platforms deserve the same rigor as customer-facing services — documentation, testing, and iteration.
 - **Reliability as a feature.** Uptime is not luck. It is engineered through redundancy, graceful degradation, and relentless testing.
 
