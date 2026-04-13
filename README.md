@@ -143,15 +143,10 @@ focus: [ DevOps, MLOps, LLMOps ]
 ## Currently Engineering
 
 - Scaling **DevOps automation** across CI/CD, provisioning, and configuration management
----
 - Optimizing **on-prem infrastructure** for government platforms with zero-downtime deployment patterns
----
 - Engineering **containerized workloads** with Docker and Kubernetes for production environments
----
 - Embedding **Infrastructure as Code** mindset across every layer of the stack
----
 - Designing **reliability-first architecture** with observability, alerting, and failure recovery baked in
----
 - Building **observability and monitoring** pipelines with Prometheus, Grafana, and ELK
 
 ---
